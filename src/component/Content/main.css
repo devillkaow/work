@@ -1,0 +1,9 @@
+.content {
+  margin: 0 1rem;
+  padding: 10rem;
+  background-color: green;
+  justify-content: center;
+}
+.content-text {
+  text-align: left;
+}

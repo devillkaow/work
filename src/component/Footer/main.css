@@ -1,0 +1,9 @@
+.footer {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: yellow;
+}
+.footer-button {
+  padding: 0.5rem 0.8rem;
+}

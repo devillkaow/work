@@ -1,0 +1,10 @@
+.content-button {
+  padding: 0.5rem 0.8rem;
+}
+.content-input {
+  padding: 0.5rem 2rem;
+}
+.content-search {
+  justify-content: center;
+  display: flex;
+}

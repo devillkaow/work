@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+}
+.navbar-logo {
+  background-color: red;
+  font-size: 30px;
+  padding: 3rem 1rem;
+}
+.navbar-button {
+  padding: 0.5rem 0.8rem;
+  align-items: center;
+  margin-right: 4rem;
+}
